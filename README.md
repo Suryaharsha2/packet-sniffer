@@ -25,3 +25,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/SuryaHarsha2/packet-sniffer.git
 cd packet-sniffer
+
+## Usage
+
+Run the packet sniffer using:
+
+```bash
+python sniffer.py
