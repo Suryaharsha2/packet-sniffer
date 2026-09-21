@@ -3,12 +3,13 @@ a python based packet sniffing and network traffic analysis project developed fo
 
 ## Features
 
-- Capture network packets
-- Analyze source and destination IP addresses
-- Identify network protocols
-- Display source and destination ports
+- Capture IP network packets using scapy
+- displays source and destination IP addresses
+- Identify TCP & UDP protocols
+- classify other IP traffic
 - Inspect basic packet information
 - Perform basic network traffic analysis
+- capture up to 20 packets per execution
 
 ## Technologies Used
 
@@ -25,6 +26,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/SuryaHarsha2/packet-sniffer.git
 cd packet-sniffer
+```
 
 ## Usage
 
